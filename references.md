@@ -1,3 +1,2 @@
 # References
-
-* octocat 1 😈
+this is my own text for the references file.
